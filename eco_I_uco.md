@@ -9,6 +9,6 @@ Si has llegado a esta web sin contexto alguno, quizás te apetezca leer [esto](h
 
 
 
-+ **[Material del curso 2020-2021](https://aprendiendo-cosas.github.io/eco_I_UCO/contenidos_ecologia_I_bio_2020-2021)**
++ **[Material del curso 2020-2021](https://aprendiendo-cosas.github.io/eco_I_bio_uco/contenidos_ecologia_I_bio_2020-2021.html)**
   En este curso solo impartí dos prácticas. Una sobre distribución de biomas y otra sobre cartografía de la biodiversidad. Creo que ambas fueron bien. En el enlace anterior puedes acceder a todo el material.
 ***
